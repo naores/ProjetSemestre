@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Histogramme.unity
+    guid: 67710225dec93a74f91ce5a7b03331f4
+  - enabled: 1
+    path: Assets/Scenes/ScrolDemo.unity
+    guid: 64f95d30bf9003046928183d8ae0c248
+  - enabled: 1
+    path: Assets/Scenes/CanvasDemoBar.unity
+    guid: be76e35e0d1c95747b6c9b255ec7d2ef
